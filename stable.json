@@ -1,0 +1,9 @@
+{
+  "version": "1.1.0",
+  "url": "https://github.com/TiagoCasagrandeRamos/shark-studio-releases/releases/download/v1.1.0/SharkStudio-Setup-1.1.0.exe",
+  "sha256": "4724ac08296d1889f814080441f15862ea3070b9d7c86d9aa03ef4d69baa58fe",
+  "notes": "Primeira versão para teste. Na primeira abertura o app pergunta onde guardar o seu trabalho, as chaves de IA são opcionais (o Editor livre funciona sem nenhuma) e as próximas atualizações chegam por aqui mesmo.",
+  "channel": "stable",
+  "size": 4964094,
+  "publishedAt": "2026-11-25T20:35:02Z"
+}
