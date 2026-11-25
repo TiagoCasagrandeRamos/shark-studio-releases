@@ -1,10 +1,10 @@
-﻿{
-    "version":  "1.1.1",
-    "url":  "https://github.com/TiagoCasagrandeRamos/shark-studio-releases/releases/download/v1.1.1/SharkStudio-Setup-1.1.1.exe",
-    "sha256":  "637d763ad4d50d50a0fabc0acb54e7a8ff626b36f85900c326a747a974e4dc6e",
+{
+    "version":  "1.1.2",
+    "url":  "https://github.com/TiagoCasagrandeRamos/shark-studio-releases/releases/download/v1.1.2/SharkStudio-Setup-1.1.2.exe",
+    "sha256":  "ab1583a8008784611c0d008436546a4bb57b29d5ef955e19e0942237012b69b2",
     "minVersion":  "1.0.0",
-    "notes":  "Versao de teste do canal de atualizacao: mesma 1.1.0, publicada para conferir que o aviso e o botao \u0027Atualizar agora\u0027 chegam na maquina de quem instalou.",
+    "notes":  "Correcao: os scripts gravavam arquivos com BOM e o pacote da 1.1.1 saiu com um package.json ilegivel para o app (ele se via na versao 0.0.0 e abriria bloqueado). Quem estiver na 1.1.1 deve atualizar.",
     "channel":  "stable",
-    "size":  4963189,
-    "publishedAt":  "2026-11-25T21:07:16.3651614Z"
+    "size":  4963724,
+    "publishedAt":  "2026-11-25T21:13:20.2787762Z"
 }
